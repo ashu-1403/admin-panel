@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "f5e6",
+      "name": "hu",
+      "email": "hi@mail.com",
+      "role": "developer",
+      "registeredAt": "2024-09-26"
+    },
+    {
+      "id": "cd18",
+      "name": "hui",
+      "email": "asbcsnk@gmail.com",
+      "role": "backend",
+      "registeredAt": "2024-09-27"
+    },
+    {
+      "id": "465d",
+      "name": "heko",
+      "email": "saurabh@gmail",
+      "role": "creator",
+      "registeredAt": "2024-09-27"
+    },
+    {
+      "id": "1b6a",
+      "name": "jiv",
+      "email": "hd@gmail",
+      "role": "hfhke",
+      "registeredAt": "2024-09-27"
+    }
+  ]
+}
